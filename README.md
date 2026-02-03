@@ -27,11 +27,24 @@
 
 ## 🔹 Featured Projects
 
-### 📊 Sales Trend & Forecast Dashboard (Power BI)
-- Built interactive dashboard for sales KPIs
-- Used DAX measures for growth analysis
-- Insights improved decision making
-  
+### 📊 1. Sales Trend & Forecasting Analytics Dashboard
+
+End-to-end sales analytics project to clean, analyze, and forecast business performance using Excel, SQL, and Power BI.
+
+Highlights:
+
+Data cleaning & EDA in Excel
+
+10+ business SQL queries
+
+KPI tracking (Sales, Profit, Margin, Growth)
+
+Interactive Power BI dashboard
+
+Forecast-ready monthly trends
+
+Tech Stack: Excel • SQL • Power BI
+👉 Repo: https://github.com/ratnakumar-8790/Sales-and-Forecasting-Analysis
 
 
 ---
