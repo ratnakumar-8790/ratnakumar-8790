@@ -48,7 +48,7 @@ Tech Stack: Excel • SQL • Power BI
 
 ### 📊 2. AI-Driven Banking Risk & Loan Performance Analytics Dashboard
 
-End-to-end sales analytics project to clean, analyze, and forecast business performance using Python, SQL, and Power BI.
+End-to-end Risk-Loan-Performance-Analytics-Dashboard to clean, analyze  using Python, SQL, and Power BI.
 
 Highlights:
 
