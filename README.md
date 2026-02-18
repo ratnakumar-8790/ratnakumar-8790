@@ -25,7 +25,7 @@
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Completed Projects
 
 ### 📊 1. Sales Trend & Forecasting Analytics Dashboard
 
@@ -46,6 +46,23 @@ Forecast-ready monthly trends
 Tech Stack: Excel • SQL • Power BI
 👉 Repo: https://github.com/ratnakumar-8790/Sales-and-Forecasting-Analysis
 
+### 📊 1. AI-Driven Banking Risk & Loan Performance Analytics Dashboard
+
+End-to-end sales analytics project to clean, analyze, and forecast business performance using Python, SQL, and Power BI.
+
+Highlights:
+
+Data cleaning & EDA in Python
+
+
+KPI tracking (Total Clients,Total Loan,Total Deposit,Total Fees,Credit Card Balance,Engagement Length)
+
+Interactive Power BI dashboard
+
+Forecast-ready monthly trends
+
+Tech Stack: Python • SQL • Power BI
+👉 Repo: https://github.com/ratnakumar-8790/AI-Driven-Banking-Risk-Loan-Performance-Analytics-Dashboard
 
 ---
 
